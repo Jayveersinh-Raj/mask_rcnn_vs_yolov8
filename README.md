@@ -47,7 +47,7 @@ A notebook and airpods were used for segmentation task
 - Yolov8: 22.79 Mb
 
 # Colab Notebook
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Jayveersinh-Raj/mask_rcnn_vs_yolov8/blob/main/mask_rcnn_vs_yolov8.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/111x_vbpT1OfjxgkXCDbx5JjCI1z7DHSs?usp=sharing)
 
 
 
